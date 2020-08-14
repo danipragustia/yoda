@@ -1,0 +1,17 @@
+{
+  "name": "yoda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^3.2.1",
+    "ytpl": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
