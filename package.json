@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "fluent-ffmpeg": "^2.1.2",
-    "ytdl-core": "^3.2.1",
+    "ytdl-core": "^4.0.0",
     "ytpl": "^0.2.4"
   },
   "devDependencies": {},
